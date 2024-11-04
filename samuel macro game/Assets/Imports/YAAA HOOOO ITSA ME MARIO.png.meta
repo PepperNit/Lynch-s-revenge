@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: 5e1e47ee757c25c48a1b7d77185e0566
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 464
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781e5ee1da4b58c45a8ba9e651c9cee7
+      internalID: -1121127798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 464
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d66845d76ea0546890424faafef4c3
+      internalID: 31702391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 464
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2600cf3b7fccaf346b8277dc362adf3a
+      internalID: 1808496624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 464
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068b285614d28324e9a89322daa0846a
+      internalID: 1280483770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 464
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af60bafb675dbea4b9905b23bd5b509f
+      internalID: -1159939080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 464
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21b07866cae79c4983426a0081aa628
+      internalID: -1543545044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 368
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d7cf73c3d8ea442afb551495271406
+      internalID: -1351952503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 368
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28a59dfc78e66a49bb32bd522a70991
+      internalID: 993860682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 368
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74d874b28f319c4c9e17a309bb0a97f
+      internalID: 1836504952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 368
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da771510cc14f4e984b29d3a516a80
+      internalID: -1373412990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 368
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fa64cf3950d694086fbf7da186938d
+      internalID: 546375056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 368
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9276b216d78df49b4bebed9fd4417d
+      internalID: 1456058767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 272
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e83fc8e91a8614da384e77d244b91c
+      internalID: 1892015425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 272
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaec30b6e8ba3443b42f7eafe867042
+      internalID: 1072292338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 272
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8177470f2dedb97409ca537a0c65699c
+      internalID: 1334000138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 272
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e519428d2541c44b14f71df1347eab
+      internalID: -2050276934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 272
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0630b9f47ade246b03559db1f160f7
+      internalID: -1918129874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 272
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1091cfb7ddd397c4e90978168bb78346
+      internalID: 587395214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a035033ddad01649a466907f947c29a
+      internalID: 1291381664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85bf017d602e414e94de97173edc129
+      internalID: 1646557269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aa3a78c4273da44b3e352db3a1a801
+      internalID: -870664668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da29e3c134caec4087b3d3e3c2d9d87
+      internalID: -1061653372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aa70ee8468d774eb34d363a3095e93
+      internalID: -1694137947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9073bf6e9036a84419a2f2404b0f5ec8
+      internalID: -650083443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 136
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccbc0b52b125894cac364a22c770bf2
+      internalID: 1026405730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 136
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05701d1c8583894ca93803f35866d65
+      internalID: 1719509761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 136
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f6d391780d361429ddcdf6eab269aa
+      internalID: 1149157623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 144
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1854419b2dd44d46b63401f6bdfd896
+      internalID: 889158655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_28
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 144
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a61adf01aea34d81fb890b4046cb2
+      internalID: 132838829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 144
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fdf9a520648e049bfe5133a8d87ce7
+      internalID: 1730129812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 67
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e39c6fb40d3fd4ea3c23c8f490d4a2
+      internalID: -377830050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_31
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 67
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947a44ce1153e0841b68a019e06ec898
+      internalID: -401676113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 67
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfb282616fc9684db575125094b7866
+      internalID: 2019147564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 80
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96d6f58ecb942049839eb97261b5ffb
+      internalID: 2103386514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_34
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 80
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e239d5ddbe3f538419e7afc009823445
+      internalID: -1568363912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 80
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c12dd758cd4d94abf695446d592df2
+      internalID: 1334746817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdc449ba71c215439f1a794ce29b222
+      internalID: 757044737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42dfd759be6b1e4b889485fbe46b307
+      internalID: 246958106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27360ddecf74e944194b619498e8f88a
+      internalID: -945840790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_39
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 16
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e30b3fec446de94f9ead20bff3ee206
+      internalID: 916988240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 16
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2659861cb8c917342b623700f8145eb6
+      internalID: -97579188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YAAA HOOOO ITSA ME MARIO_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 14
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e5348bc5a1a3c4d9ec533c1f5b9358
+      internalID: -1537813971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      YAAA HOOOO ITSA ME MARIO_0: -1121127798
+      YAAA HOOOO ITSA ME MARIO_1: 31702391
+      YAAA HOOOO ITSA ME MARIO_10: 546375056
+      YAAA HOOOO ITSA ME MARIO_11: 1456058767
+      YAAA HOOOO ITSA ME MARIO_12: 1892015425
+      YAAA HOOOO ITSA ME MARIO_13: 1072292338
+      YAAA HOOOO ITSA ME MARIO_14: 1334000138
+      YAAA HOOOO ITSA ME MARIO_15: -2050276934
+      YAAA HOOOO ITSA ME MARIO_16: -1918129874
+      YAAA HOOOO ITSA ME MARIO_17: 587395214
+      YAAA HOOOO ITSA ME MARIO_18: 1291381664
+      YAAA HOOOO ITSA ME MARIO_19: 1646557269
+      YAAA HOOOO ITSA ME MARIO_2: 1808496624
+      YAAA HOOOO ITSA ME MARIO_20: -870664668
+      YAAA HOOOO ITSA ME MARIO_21: -1061653372
+      YAAA HOOOO ITSA ME MARIO_22: -1694137947
+      YAAA HOOOO ITSA ME MARIO_23: -650083443
+      YAAA HOOOO ITSA ME MARIO_24: 1026405730
+      YAAA HOOOO ITSA ME MARIO_25: 1719509761
+      YAAA HOOOO ITSA ME MARIO_26: 1149157623
+      YAAA HOOOO ITSA ME MARIO_27: 889158655
+      YAAA HOOOO ITSA ME MARIO_28: 132838829
+      YAAA HOOOO ITSA ME MARIO_29: 1730129812
+      YAAA HOOOO ITSA ME MARIO_3: 1280483770
+      YAAA HOOOO ITSA ME MARIO_30: -377830050
+      YAAA HOOOO ITSA ME MARIO_31: -401676113
+      YAAA HOOOO ITSA ME MARIO_32: 2019147564
+      YAAA HOOOO ITSA ME MARIO_33: 2103386514
+      YAAA HOOOO ITSA ME MARIO_34: -1568363912
+      YAAA HOOOO ITSA ME MARIO_35: 1334746817
+      YAAA HOOOO ITSA ME MARIO_36: 757044737
+      YAAA HOOOO ITSA ME MARIO_37: 246958106
+      YAAA HOOOO ITSA ME MARIO_38: -945840790
+      YAAA HOOOO ITSA ME MARIO_39: 916988240
+      YAAA HOOOO ITSA ME MARIO_4: -1159939080
+      YAAA HOOOO ITSA ME MARIO_40: -97579188
+      YAAA HOOOO ITSA ME MARIO_41: -1537813971
+      YAAA HOOOO ITSA ME MARIO_42: 447550265
+      YAAA HOOOO ITSA ME MARIO_5: -1543545044
+      YAAA HOOOO ITSA ME MARIO_6: -1351952503
+      YAAA HOOOO ITSA ME MARIO_7: 993860682
+      YAAA HOOOO ITSA ME MARIO_8: 1836504952
+      YAAA HOOOO ITSA ME MARIO_9: -1373412990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
