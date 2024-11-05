@@ -15,21 +15,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: cc389a0f94624784586054d24292d380
   - enabled: 1
-    path: Assets/Scenes/Maze.unity
-    guid: fd962e23c18d9b24c8440b43db190eaa
-  - enabled: 1
-    path: Assets/Scenes/exit cut scene.unity
-    guid: 4f2e1aa06a974574e950650ece4c5120
+    path: Assets/Scenes/Level One.unity
+    guid: 67a689344150c814ab04b7858aaca50c
   - enabled: 1
     path: Assets/Scenes/Level Two.unity
     guid: ec53c5e7f45226d428670152f719f85c
   - enabled: 1
-    path: Assets/Scenes/Level Four.unity
-    guid: bc4193e19cfdf2f41b359befd5727a70
-  - enabled: 1
     path: Assets/Scenes/Level three.unity
     guid: b56b5aaa14828224d8b3fb9d88737d00
   - enabled: 1
-    path: Assets/Scenes/Level One.unity
-    guid: 67a689344150c814ab04b7858aaca50c
+    path: Assets/Scenes/Maze.unity
+    guid: fd962e23c18d9b24c8440b43db190eaa
+  - enabled: 1
+    path: Assets/Scenes/Level Four.unity
+    guid: bc4193e19cfdf2f41b359befd5727a70
+  - enabled: 1
+    path: Assets/Scenes/exit cut scene.unity
+    guid: 4f2e1aa06a974574e950650ece4c5120
   m_configObjects: {}
