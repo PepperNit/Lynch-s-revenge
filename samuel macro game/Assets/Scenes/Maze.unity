@@ -15185,8 +15185,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Scene","value":{"$content":"Level
-      2","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Scene","value":{"$content":"exit
+      cut scene","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!61 &2042882238
@@ -15295,7 +15295,7 @@ Transform:
   m_GameObject: {fileID: 2042882235}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 430, y: 35, z: 0}
+  m_LocalPosition: {x: 246.1, y: 490.2, z: 0}
   m_LocalScale: {x: 62.523205, y: 53.479465, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
