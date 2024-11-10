@@ -1250,7 +1250,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 590262353}
-  isPickedUp: 0
+  isPickedUp: 1
   SmoothTime: 0
 --- !u!212 &175398978
 SpriteRenderer:
@@ -3058,7 +3058,7 @@ Transform:
   m_GameObject: {fileID: 608960607}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -31.58, y: 20, z: -10}
+  m_LocalPosition: {x: 5.69, y: 13.27, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6943,12 +6943,12 @@ PrefabInstance:
     - target: {fileID: 4436494040201295678, guid: 2f7eeaf41636b0f4f8ca52ea6858fd36,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -31.58
+      value: 5.69
       objectReference: {fileID: 0}
     - target: {fileID: 4436494040201295678, guid: 2f7eeaf41636b0f4f8ca52ea6858fd36,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 20
+      value: 13.27
       objectReference: {fileID: 0}
     - target: {fileID: 4436494040201295678, guid: 2f7eeaf41636b0f4f8ca52ea6858fd36,
         type: 3}
@@ -8447,7 +8447,7 @@ Transform:
   m_GameObject: {fileID: 1868894150}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -22.862427, y: 5.43758, z: -9.739335}
+  m_LocalPosition: {x: 14.407574, y: -1.2924194, z: -9.739335}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
